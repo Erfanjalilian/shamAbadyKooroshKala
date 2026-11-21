@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "digital",
+    "name": "لوازم دیجیتال و الکتریکی",
+    "image": "/uploads/1789817309903-5f3fb04e-b839-46f8-a9c4-f41b30f899d9.jpg"
+  },
+  {
+    "slug": "watches-accessories",
+    "name": "قهوه و خشکبار",
+    "image": "/uploads/1789817337361-970919d7-6c1a-4c1e-aad5-b2d893f088ce.jpg"
+  },
+  {
+    "slug": "home",
+    "name": "لوازم خانه و آشپزخانه",
+    "image": "/uploads/1789817376627-17bd3d12-6feb-4a5d-8ba3-9aaecc4329eb.jpg"
+  },
+  {
+    "slug": "clothing",
+    "name": "محصولات خودرو",
+    "image": "/uploads/1789817435403-1065bdbd-f1ac-4818-8988-1199d2327a88.jpg"
+  },
+  {
+    "slug": "coffee-drinks",
+    "name": "تجهيزات نظارتی",
+    "image": "/uploads/1789817459360-a29ec0b7-1c99-42fa-ae29-fd764b5b2e1d.jpg"
+  },
+  {
+    "slug": "beauty-health",
+    "name": "لوازم آرایشی و بهداشتی",
+    "image": "/uploads/1789817488615-0d6ac215-2168-47b4-9349-641071281712.jpg"
+  },
+  {
+    "slug": "اسباب-بازی",
+    "name": "اسباب‌ بازی",
+    "image": "/uploads/1789817516956-52a432cb-155b-46a4-b3ba-23bb265061c3.jpg"
+  },
+  {
+    "slug": "سایلنت-باکس",
+    "name": "سایلنت باکس",
+    "image": "/uploads/1789817207828-ce2575ee-e1b8-4700-ac45-8142b393fd8d.webp"
+  },
+  {
+    "slug": "ظروف-یک-بار-مصرف",
+    "name": "ظروف یک بار مصرف",
+    "image": "/uploads/1789817413184-60f47cbc-a988-4c2d-9400-3287903cd623.jpg"
+  },
+  {
+    "slug": "فن-حلزونی-تربو",
+    "name": "فن حلزونی تربو",
+    "image": "/uploads/1789843103430-70fe58cd-73e4-4994-9785-6732bb288cce.jpg"
+  },
+  {
+    "slug": "ساخت-سایت-فروشگاهی",
+    "name": "«ساخت سایت حرفه‌ای؛ اقتصادی، اقساطی»",
+    "image": "/uploads/1791659792031-826bccd5-5099-4fc9-9b27-4568e70e7df0.jpg"
+  }
+]
